@@ -16,5 +16,5 @@ python -m unittest test.test
 ```
 or the class / method
 ```
-python -m unittest test.test.TestExampleMethod
+python -m unittest test.test.TestExampleClass
 ```
